@@ -18,64 +18,63 @@ msgstr ""
 
 #: deprecated.php:106 deprecated.php:107 src/ALRCore/ALRRegister.php:152
 msgid "Already registered?"
-msgstr "¿Te has registrado anteriormente? "
+msgstr "¿Ya estás registrado? "
 
-# Instead should read: “are you a member?”
 #: deprecated.php:119 deprecated.php:120 src/ALRCore/ALRLogin.php:132
 msgid "Are you a member?"
-msgstr "¿Aún no eres miembro?"
+msgstr "¿Ya eres miembro?"
 
 #: lib/lumber/lumber.php:411
 msgid "-- Select a Value --"
-msgstr ""
+msgstr "-- Seleccione un valor --"
 
 #: lib/lumber/lumber.php:885
 msgid "Upload"
-msgstr ""
+msgstr "Cargar"
 
 #: lib/lumber/lumber.php:889
 msgid "Remove"
-msgstr ""
+msgstr "Quitar"
 
 #: lib/quilt/quilt.php:98
 msgid "Options saved."
-msgstr ""
+msgstr "Opciones guardadas."
 
 #: lib/quilt/quilt.php:313
 msgid "Thank you for using Quilt."
-msgstr ""
+msgstr "Gracias por utilizar Quilt."
 
 #: lib/quilt/quilt.php:334
 msgid "Save Changes"
-msgstr ""
+msgstr "Guardar Cambios"
 
 #: lib/quilt/quilt.php:336
 msgid "Reset Values"
-msgstr ""
+msgstr "Reestablecer valores"
 
 #: lib/quilt/quilt.php:340
 msgid "Restore ALL Default Values"
-msgstr ""
+msgstr "Reestablecer TODOS los valores predeterminados"
 
 #: lib/quilt/quilt.php:683
 msgid "Activate"
-msgstr ""
+msgstr "Activar"
 
 #: lib/quilt/quilt.php:691
 msgid "Active"
-msgstr ""
+msgstr "Activo"
 
 #: lib/quilt/quilt.php:692
 msgid "Deactivate"
-msgstr ""
+msgstr "Desactivar"
 
 #: lib/quilt/quilt.php:695
 msgid "Inactive"
-msgstr ""
+msgstr "Inactivo"
 
 #: lib/quilt/quilt.php:773
 msgid "This will delete your current settings and restore the defaults."
-msgstr ""
+msgstr "Esto va a eliminar tu configuración actual y restaurar los valores predeterminados."
 
 #: plugin.php:136 src/ALRCore/ALRLogin.php:103 src/ALRCore/ALRLogin.php:104
 #: src/ALRCore/ALRRegister.php:82 src/ALRCore/ALRRegister.php:83
@@ -98,7 +97,7 @@ msgstr "Ya estas registrado"
 #: plugin.php:207
 #, fuzzy
 msgid "Settings"
-msgstr "Ajustes del Facebook"
+msgstr "Configuración"
 
 #: plugin.php:208 settings.php:61
 msgid "Pro Version"
@@ -116,16 +115,16 @@ msgstr ""
 #: settings.php:19 settings.php:37
 #, fuzzy
 msgid "AJAX Login & Register"
-msgstr "AJAX Login &amp; Register"
+msgstr "AJAX Login & Register"
 
 #: settings.php:56
 #, fuzzy
 msgid "Thank you for using ZM AJAX Login & Register"
-msgstr "AJAX Login &amp; Register"
+msgstr "Gracias por utilizar ZM AJAX Login &amp; Register"
 
 #: settings.php:59
 msgid "Support"
-msgstr ""
+msgstr "Soporte"
 
 #: src/ALRCore/ALRHelpers.php:22 src/ALRCore/ALRHelpers.php:27
 #: src/ALRCore/ALRHelpers.php:32
@@ -134,7 +133,7 @@ msgstr "Usuario inválido"
 
 #: src/ALRCore/ALRHelpers.php:38
 msgid "Invalid"
-msgstr "inválido"
+msgstr "Inválido"
 
 #: src/ALRCore/ALRHelpers.php:43
 msgid "Passwords do not match."
@@ -159,12 +158,12 @@ msgstr "Iniciar sesión"
 
 #: src/ALRCore/ALRLogin.php:312 src/ALRCore/ALRRegister.php:371
 msgid "Loading..."
-msgstr "Cargando…"
+msgstr "Cargando..."
 
 # Inscripción o registración
 #: src/ALRCore/ALRRegister.php:94
 msgid "Registration is currently closed."
-msgstr "Registración esta actualmente cerrada"
+msgstr "En registro está inhabilitado."
 
 #: src/ALRCore/ALRRegister.php:370
 msgid "Register"
@@ -172,23 +171,23 @@ msgstr "Regístrate"
 
 #: src/ALRDesign/ALRDesign.php:54
 msgid "Design"
-msgstr ""
+msgstr "Diseño"
 
 #: src/ALRDesign/ALRDesign.php:58
 msgid "Form Layout"
-msgstr "Esquema o diseño de formulario"
+msgstr "Diseño de formulario"
 
 #: src/ALRDesign/ALRDesign.php:61
 msgid "Not applicable in widget areas."
-msgstr ""
+msgstr "No aplica para areas de widgets."
 
 #: src/ALRDesign/ALRDesign.php:63
 msgid "Default"
-msgstr ""
+msgstr "Por defecto"
 
 #: src/ALRDesign/ALRDesign.php:64
 msgid "Wide"
-msgstr ""
+msgstr "Ancho"
 
 #: src/ALRDesign/ALRDesign.php:69
 msgid "Additional Styling"
@@ -197,45 +196,42 @@ msgstr "Estilos adicionales"
 # o hecho a la medida
 #: src/ALRDesign/ALRDesign.php:71
 msgid "Type your custom CSS styles that are applied to the dialog boxes."
-msgstr "Indica tus estilos de CSS a la medida para los cuadros de diálogo"
+msgstr "Ingresa tus estilos CSS personalizados para los cuadros de diálogo"
 
 # Should read—disable, keep me logged in.
 #: src/ALRDesign/ALRDesign.php:77
 msgid "Disable \"keep me logged in\""
-msgstr "Inutiliza y mantenerme conectado"
+msgstr "Deshabilitar \"Mantenerme con la sesión iniciada\"."
 
 #: src/ALRDesign/ALRDesign.php:78
 msgid "Use this option to disable the check box shown to keep users logged in."
-msgstr ""
-"Usa esta opción para inutilizar la casilla de verificación que mantiene a "
-"los usuarios con acceso."
+msgstr "Usa esta opción para deshabilitar la casilla de verificación mostrada para mantener a los usuarios con la sesión iniciada."
 
 #: src/ALRDesign/ALRDesign.php:83
 msgid "Remove Registration"
-msgstr ""
+msgstr "Quitar \"Registro\"."
 
 #: src/ALRDesign/ALRDesign.php:84
 msgid "This prevents users from being able to register on the login page."
-msgstr ""
+msgstr "Esto evita que los usuarios puedan registrarse en la página de inicio de sesión."
 
-# Lost password? Did you forget your password?
 #: src/ALRDesign/ALRDesign.php:89
 #, fuzzy
 msgid "Remove Forgot Password"
-msgstr "¿Olvidaste tu contraseña?"
+msgstr "Quitar \"Olvidé mi contraseña\"."
 
 #: src/ALRDesign/ALRDesign.php:90
 msgid "This prevents users from being able to use the \"forgot password\"."
-msgstr ""
+msgstr "Esto evita que los usuarios puedan usar la opción \"Olvidé mi contraseña\"."
 
 #: src/ALRMisc/ALRMisc.php:43
 msgid "Misc."
-msgstr ""
+msgstr "Misc."
 
 # "handle" refiere a lugar donde el usario puede tomar la acción de acceder la página seleccionada
 #: src/ALRMisc/ALRMisc.php:47
 msgid "Login Handle"
-msgstr "Lugar reservado para iniciar sesión "
+msgstr "Manejador de inicio de sesión"
 
 # tecla o escribir a máquina
 #: src/ALRMisc/ALRMisc.php:50
@@ -249,7 +245,7 @@ msgstr ""
 
 #: src/ALRMisc/ALRMisc.php:54
 msgid "Register Handle"
-msgstr "Lugar reservado para el enlace de inscripción o registración "
+msgstr "Manejador de registro"
 
 # tecla o escribir a máquina
 #: src/ALRMisc/ALRMisc.php:57
@@ -261,11 +257,10 @@ msgstr ""
 "Indica el nombre de clase o el DNI del elemento que quieres lanzar en el "
 "cuadro de diálogo cuando hagas un clic, por ejemplo: "
 
-# Lost password? Did you forget your password?
 #: src/ALRMisc/ALRMisc.php:61
 #, fuzzy
 msgid "Force Check Password"
-msgstr "¿Olvidaste tu contraseña?"
+msgstr "Forzar la verificación de contraseña"
 
 #: src/ALRMisc/ALRMisc.php:64
 msgid ""
@@ -275,60 +270,56 @@ msgstr ""
 
 #: src/ALRMisc/ALRMisc.php:73
 msgid "Pre-load Forms"
-msgstr ""
+msgstr "Formularios pre-cargados"
 
 #: src/ALRMisc/ALRMisc.php:80
-msgid ""
-"Setting this option will pre-load the forms, allowing them to be loaded "
-"prior to being clicked on."
-msgstr ""
+msgid "Setting this option will pre-load the forms, allowing them to be loaded prior to being clicked on."
+msgstr "Al establecer esta opción, los formularios serán pre-cargados antes de que se haga click en ellos."
 
 #: src/ALRRedirect/ALRRedirect.php:54
 msgid "Redirect"
-msgstr ""
+msgstr "Redirigir"
 
 #: src/ALRRedirect/ALRRedirect.php:58
 msgid "Redirect After Login URL"
-msgstr "Redirige después del url que inicia sesión"
+msgstr "Redirigir a esta URL después de iniciar sesión"
 
 #: src/ALRRedirect/ALRRedirect.php:63
-msgid ""
-"Enter the URL or slug you want users redirected to after login, example: "
-msgstr "Indica el url al que quieres dirigir después de iniciar, por ejemplo "
+msgid "Enter the URL or slug you want users redirected to after login, example:"
+msgstr "Ingresa la URL o el slug al que quieres redirigir a los usuarios después de iniciar sesión, ejemplo:"
 
-# not translatable?
 #: src/ALRRedirect/ALRRedirect.php:64
 msgid "http://site.com/, /dashboard/, /wp-admin/"
-msgstr "http://sitio.com/, /escritorio/, /wp-admin/"
+msgstr "http://sitio.com/, /dashboard/, /wp-admin/"
 
 #: src/ALRSocial/ALRSocial.php:43
 msgid "Social"
-msgstr ""
+msgstr "Social"
 
 #: src/ALRSocial/ALRSocialFacebook.php:245
 msgid "Log in using Facebook"
-msgstr ""
+msgstr "Acceder con Facebook"
 
 # o configuraciones de Facebook.
 #: src/ALRSocial/ALRSocialFacebook.php:274
 msgid "Facebook Settings"
-msgstr "Ajustes del Facebook"
+msgstr "Ajustes de Facebook"
 
 #: src/ALRSocial/ALRSocialFacebook.php:280
 msgid "Enable"
-msgstr ""
+msgstr "Habilitar"
 
 #: src/ALRSocial/ALRSocialFacebook.php:282
 msgid "By enabling this setting visitors will be able to login with Facebook."
-msgstr ""
+msgstr "Al habilitar esta opción, los visitantes podrán ingresar con Facebook"
 
 #: src/ALRSocial/ALRSocialFacebook.php:287
 msgid "Login Button"
-msgstr ""
+msgstr "Botón de ingreso"
 
 #: src/ALRSocial/ALRSocialFacebook.php:289
 msgid "Upload a custom image to be displayed as the Facebook login button."
-msgstr ""
+msgstr "Carga una imagen personalizada para que se muestre como botón de ingreso con Facebook"
 
 #: src/ALRSocial/ALRSocialFacebook.php:294
 msgid "App ID"
@@ -344,13 +335,11 @@ msgstr ""
 
 #: src/ALRSocial/ALRSocialFacebook.php:302
 msgid "Use Facebook Avatar"
-msgstr ""
+msgstr "Usar Avatar de Facebook"
 
 #: src/ALRSocial/ALRSocialFacebook.php:303
-msgid ""
-"Checking this box will make Facebook profile picture show as avatar when "
-"possible "
-msgstr ""
+msgid "Checking this box will make Facebook profile picture show as avatar when possible"
+msgstr "Al activar esta casilla, se mostrará como avatar la foto de perfil de Facebook cuando sea posible"
 
 #~ msgid ".login-link"
 #~ msgstr ".login-link"
@@ -358,8 +347,8 @@ msgstr ""
 #~ msgid ".register-link"
 #~ msgstr ".register-link"
 
-#~ msgid "URL"
-#~ msgstr "URL"
+msgid "URL"
+msgstr "URL"
 
 #~ msgid "This is the URL you have set in your Facebook Developer App Settings"
 #~ msgstr ""
@@ -372,36 +361,36 @@ msgstr ""
 #~ "para desarolladores de aplicaciones de Facebook (Facebook Developer App "
 #~ "Dashboard)"
 
-#~ msgid "Enable Facebook Login"
-#~ msgstr "Activa ingreso/acceso a Facebook"
+msgid "Enable Facebook Login"
+msgstr "Activar ingreso con Facebook"
 
 # by disabling this, your facebook setttings will still be saved.
 #~ msgid "By disabling this, your Facebook settings will still be saved."
 #~ msgstr "Si desactivas esto,  los ajustes de Facebook todavia se guardarán. "
 
-#~ msgid "General Settings"
-#~ msgstr "Ajustes generales"
+msgid "General Settings"
+msgstr "Ajustes generales"
 
-#~ msgid "User Name"
-#~ msgstr "Nombre de usuario"
+msgid "User Name"
+msgstr "Nombre de usuario"
 
-#~ msgid "Password"
-#~ msgstr "Contraseña"
+msgid "Password"
+msgstr "Contraseña"
 
-#~ msgid "Keep me logged in"
-#~ msgstr "Mantenerme conectado"
+msgid "Keep me logged in"
+msgstr "Mantenerme conectado"
 
-#~ msgid "Email"
-#~ msgstr "Correo electrónico"
+msgid "Email"
+msgstr "Correo electrónico"
 
-#~ msgid "Confirm Password"
-#~ msgstr "Confirma la contraseña"
+msgid "Confirm Password"
+msgstr "Confirmar contraseña"
 
-#~ msgid "AJAX Login &amp; Register Settings"
-#~ msgstr "Ajustes de AJAX Login &amp; Register"
+msgid "AJAX Login &amp; Register Settings"
+msgstr "Configuración de AJAX Login &amp; Register"
 
-#~ msgid "Usage"
-#~ msgstr "Uso"
+msgid "Usage"
+msgstr "Uso"
 
 #~ msgid ""
 #~ "<p>To create a login page using shortcode; add the following shortcode "
@@ -454,28 +443,28 @@ msgstr ""
 #~ "nuestro <a href=\"http://support.zanematthew.com/forum/zm-ajax-login-"
 #~ "register/\">Foro De Apoyo.</a></p>"
 
-#~ msgid "Advanced Usage"
-#~ msgstr "Uso avanzado"
+msgid "Advanced Usage"
+msgstr "Uso avanzado"
 
-#~ msgid "Upgrade to the Pro version"
-#~ msgstr "Actualiza a la versión Pro "
+msgid "Upgrade to the Pro version"
+msgstr "Actualizar a la versión Pro "
 
-#~ msgid "Remove these ads?"
-#~ msgstr "¿Quieres eliminar estos anuncios?"
+msgid "Remove these ads?"
+msgstr "¿Remover estos anuncios?"
 
-#~ msgid "Remove this ad, upgrade to Pro"
-#~ msgstr "Remueve este anuncio y actualiza a la versión Pro"
+msgid "Remove this ad, upgrade to Pro"
+msgstr "Remueve este anuncio, actualízate a Pro"
 
-#~ msgid "Upgrade to Login &amp; Register Pro"
-#~ msgstr "Actualiza a Login &amp; Register Pro"
-
-#, fuzzy
-#~ msgid " Password"
-#~ msgstr "Contraseña"
+msgid "Upgrade to Login &amp; Register Pro"
+msgstr "Actualizar a Login &amp; Register Pro"
 
 #, fuzzy
-#~ msgid "Additional Options"
-#~ msgstr "Estilos adicionales"
+msgid " Password"
+msgstr "Contraseña"
+
+#, fuzzy
+msgid "Additional Options"
+msgstr "Opciones adicionales"
 
 #, fuzzy
 #~ msgid "Logo"
@@ -483,4 +472,4 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "Ajax Login &amp; Register Settings"
-#~ msgstr "Accede Ajax &amp ajustes de registración"
+#~ msgstr "Configuración de Ajax Login &amp Settings"
